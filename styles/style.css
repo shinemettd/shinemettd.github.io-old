@@ -1,0 +1,46 @@
+html {
+    background-color: whitesmoke;
+}
+
+p {
+    font-size: 24px;
+    color: whitesmoke;
+    align-self: center;
+}
+
+.margin-p {
+    margin-left: 15px;
+}
+
+h2 {
+    color: whitesmoke;
+    text-align: center;
+}
+
+html {
+    background-color: #1e1e24;
+}
+
+body {
+    width: 1200px;
+    margin: 0 auto;
+    background-color: #2a2a33; 
+    padding: 0 20px 20px 20px;
+    border: 2px solid black;
+    border-radius: 30px;
+}
+
+img {
+    border-radius: 20px;
+    align-self: flex-start;
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+.telegram-link {
+    text-align: center; /* Центрирование текста внутри элемента <p> */
+    font-weight: bold; /* Жирный шрифт */
+    font-size: 20px; /* Размер шрифта */
+    color: #46ace3; /* Цвет текста */
+}
